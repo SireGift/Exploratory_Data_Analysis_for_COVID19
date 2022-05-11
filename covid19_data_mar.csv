@@ -1,0 +1,271 @@
+id,case_in_country,reporting date,location,country,gender,age,symptom_onset,If_onset_approximated,hosp_visit_date,exposure_start,exposure_end,incubationdays,hospitaldays,visiting Wuhan,from Wuhan,death,recovered,symptom
+195,,1/27/2020,Hubei,China,female,28,1/7/2020,0,1/10/2020,NA,NA,#VALUE!,3,0,1,,,"fever, cough, difficult in breathing"
+196,,1/27/2020,Hubei,China,female,51,NA,NA,1/11/2020,NA,NA,#VALUE!,#VALUE!,0,1,,,"fever, cough, difficult in breathing"
+197,,1/27/2020,Shandong,China,male,37,NA,NA,1/17/2020,NA,NA,#VALUE!,#VALUE!,0,1,,,fever
+237,1,1/15/2020,Kanagawa,Japan,male,35,1/3/2020,0,1/6/2020,NA,1/6/2020,#VALUE!,3,1,0,,1/15/2020,fever
+241,5,1/28/2020,Aichi Prefecture,Japan,male,45,1/22/2020,0,1/26/2020,NA,1/20/2020,#VALUE!,4,0,1,,,fever
+242,6,1/28/2020,Nara Prefecture,Japan,male,65,1/14/2020,0,1/17/2020,1/8/2020,1/16/2020,6,3,0,0,,,"cough, chills, joint pain"
+243,7,1/28/2020,Hokkaido,Japan,female,45,1/26/2020,0,1/27/2020,NA,1/21/2020,#VALUE!,1,1,1,,,"fever, cough"
+244,8,1/29/2020,Osaka Prefecture,Japan,female,45,1/20/2020,0,1/20/2020,1/12/2020,1/17/2020,8,0,0,0,,,"fever, cough"
+245,9,1/30/2020,Tokyo,Japan,male,55,1/29/2020,0,NA,NA,1/29/2020,#VALUE!,#VALUE!,0,1,,,"throat pain, fever"
+246,10,1/30/2020,Mie,Japan,male,55,1/25/2020,0,1/27/2020,12/24/2019,1/13/2020,32,2,1,0,,,fever
+247,11,1/30/2020,Japan,Japan,female,35,1/24/2020,0,1/24/2020,1/19/2020,1/20/2020,5,0,1,0,,,"fever, cough"
+248,12,1/30/2020,Kyoto,Japan,female,25,1/23/2020,0,1/28/2020,1/17/2020,1/18/2020,6,5,1,0,,,fever
+251,15,2/1/2020,Japan,Japan,male,45,1/26/2020,0,1/30/2020,NA,1/31/2020,#VALUE!,4,1,0,,,"fever, cough"
+253,17,2/4/2020,Chiba Prefecture,Japan,female,35,1/30/2020,0,1/31/2020,NA,NA,#VALUE!,1,0,1,,,"fever, runny nose"
+254,18,2/4/2020,Chiba Prefecture,Japan,female,55,1/31/2020,0,1/31/2020,1/19/2020,1/19/2020,12,0,1,0,,,"fever, cough"
+255,19,2/4/2020,Japan,Japan,male,55,1/25/2020,0,1/26/2020,NA,1/22/2020,#VALUE!,1,0,1,,,fever
+257,21,2/5/2020,Kyoto,Japan,male,25,1/24/2020,0,1/27/2020,NA,NA,#VALUE!,3,0,0,,,fever
+260,24,2/10/2020,Japan,Japan,male,45,2/8/2020,0,2/10/2020,NA,1/30/2020,#VALUE!,2,1,0,,,fever
+261,25,2/10/2020,Japan,Japan,male,55,2/7/2020,0,2/7/2020,NA,1/30/2020,#VALUE!,0,0,1,,,"fever, cough"
+263,27,2/13/2020,Kanagawa,Japan,female,85,1/22/2020,0,1/28/2020,NA,NA,#VALUE!,6,0,0,2/13/2020,,fatigue
+264,28,2/13/2020,Tokyo,Japan,male,75,1/29/2020,0,1/29/2020,NA,NA,#VALUE!,0,0,0,,,fever
+265,29,2/13/2020,Wakayama Prefecture,Japan,male,55,1/31/2020,0,2/8/2020,NA,NA,#VALUE!,8,0,0,,,"fever, abdominal pain, diarrhea"
+266,30,2/13/2020,Chiba Prefecture,Japan,male,25,2/2/2020,0,2/10/2020,NA,NA,#VALUE!,8,0,0,,,"fever, cough"
+267,31,2/14/2020,Japan,Japan,male,75,2/1/2020,0,2/6/2020,NA,NA,#VALUE!,5,0,0,2/28/2020,,"cold, fever, pneumonia"
+268,32,2/14/2020,Okinawa Prefecture,Japan,female,65,2/5/2020,0,2/12/2020,NA,NA,#VALUE!,7,0,0,,,"cough, joint pain"
+269,33,2/14/2020,Tokyo,Japan,female,55,2/4/2020,0,2/7/2020,NA,NA,#VALUE!,3,0,0,,,"vomiting, diarrhea, fever, cough"
+270,34,2/14/2020,Tokyo,Japan,male,75,1/20/2020,0,1/21/2020,NA,NA,#VALUE!,1,0,0,,,"fever, loss of appetite"
+271,35,2/14/2020,Aichi Prefecture,Japan,male,65,2/3/2020,0,2/8/2020,NA,NA,#VALUE!,5,0,0,,,fever
+272,36,2/14/2020,Hokkaido,Japan,male,55,1/31/2020,0,2//2020,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, cough, malaise"
+273,37,2/14/2020,Kanagawa,Japan,male,35,2/11/2020,0,2/10/2020,NA,NA,#VALUE!,-1,0,0,,,fever
+274,38,2/15/2020,Wakayama Prefecture,Japan,male,55,2/4/2020,0,2/6/2020,NA,NA,#VALUE!,2,0,0,,,fever
+275,39,2/15/2020,Wakayama Prefecture,Japan,female,55,2/7/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, cough"
+276,40,2/15/2020,Wakayama Prefecture,Japan,male,65,NA,NA,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, headache"
+280,44,2/16/2020,Tokyo,Japan,male,65,NA,NA,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fatigue, difficulty breathing"
+281,45,2/16/2020,Tokyo,Japan,male,35,2/3/2020,0,2/4/2020,NA,NA,#VALUE!,1,0,0,,,"fever, malaise"
+282,46,2/16/2020,Aichi Prefecture,Japan,male,65,2/15/2020,0,2/15/2020,NA,NA,#VALUE!,0,0,0,,,fever
+283,47,2/16/2020,Nara Prefecture,Japan,male,65,2/6/2020,0,2/7/2020,NA,NA,#VALUE!,1,0,0,,,"fever, malaise"
+284,48,2/17/2020,Aichi Prefecture,Japan,male,65,2/17/2020,0,2/17/2020,NA,NA,#VALUE!,0,0,0,,,"fever, malaise"
+287,51,2/17/2020,Wakayama Prefecture,Japan,male,55,2/3/2020,0,2/4/2020,NA,NA,#VALUE!,1,0,0,,,fever
+288,52,2/17/2020,Wakayama Prefecture,Japan,male,55,2/7/2020,0,2/7/2020,NA,NA,#VALUE!,0,0,0,,,fever
+289,53,2/17/2020,Wakayama Prefecture,Japan,female,45,2/14/2020,0,2/14/2020,NA,NA,#VALUE!,0,0,0,,,"fever, vomiting, diarrhea"
+290,54,2/18/2020,Wakayama Prefecture,Japan,male,65,2/16/2020,0,2/11/2020,NA,NA,#VALUE!,-5,0,0,,,fever
+291,55,2/18/2020,Wakayama Prefecture,Japan,male,35,2/16/2020,0,2/17/2020,NA,NA,#VALUE!,1,0,0,,,fever
+292,56,2/18/2020,Tokyo,Japan,male,85,2/9/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,2/26/2020,,"fever, pneumonia"
+293,57,2/18/2020,Japan,Japan,male,25,2/7/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,fever
+294,58,2/18/2020,Japan,Japan,male,55,2/5/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, cough, sputum, malaise"
+297,61,2/19/2020,Sagamihara,Japan,male,75,2/14/2020,0,NA,2/10/2020,2/18/2020,4,#VALUE!,0,0,,,"fever, cough"
+298,62,2/19/2020,Kanagawa,Japan,male,65,2/3/2020,0,2/5/2020,NA,NA,#VALUE!,2,0,0,,,fever
+299,63,2/19/2020,Sapporo,Japan,male,45,2/8/2020,0,2/13/2020,NA,NA,#VALUE!,5,0,0,,,"fatigue, muscle pain, joint pain, fever"
+300,64,2/19/2020,Hokkaido,Japan,male,65,2/3/2020,0,2/7/2020,NA,NA,#VALUE!,4,0,0,,,"fever, sore throat"
+301,65,2/19/2020,Okinawa Prefecture,Japan,male,65,2/11/2020,0,2/18/2020,NA,NA,#VALUE!,7,0,0,,,"fever, breathlessness, malaise"
+302,66,2/19/2020,Tokyo,Japan,male,75,2/4/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"cough, malaise, shortness of breath"
+303,67,2/19/2020,Tokyo,Japan,female,75,2/4/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"cough, malaise, shortness of breath"
+304,68,2/19/2020,Tokyo,Japan,female,75,2/3/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"cough, sputum, dyspnea"
+305,69,2/19/2020,Nagoya City,Japan,female,55,2/17/2020,0,2/17/2020,NA,NA,#VALUE!,0,0,0,,,"fever, malaise"
+307,71,2/20/2020,Fukuoka Prefecture,Japan,male,65,2/13/2020,0,2/13/2020,NA,NA,#VALUE!,0,0,0,,,"fever, pneumonia"
+309,73,2/20/2020,Chiba Prefecture,Japan,female,75,2/14/2020,0,2/15/2020,NA,NA,#VALUE!,1,0,0,,,fever
+310,74,2/20/2020,Okinawa Prefecture,Japan,male,85,2/6/2020,0,2/17/2020,NA,NA,#VALUE!,11,0,0,,,"fever, malaise, diarrhea, cough"
+313,77,2/20/2020,Nagoya City,Japan,male,85,2/19/2020,0,2/19/2020,NA,NA,#VALUE!,0,0,0,,,fever
+314,78,2/20/2020,Sagamihara,Japan,male,85,2/14/2020,0,NA,1/11/2020,NA,34,#VALUE!,0,0,,,fever
+316,80,2/21/2020,Hokkaido,Japan,male,5,2/15/2020,0,2/17/2020,NA,NA,#VALUE!,2,0,0,,12/30/2020,fever
+318,82,2/21/2020,Hokkaido,Japan,female,45,2/16/2020,0,2/18/2020,NA,NA,#VALUE!,2,0,0,,12/30/2020,fever
+319,83,2/21/2020,Ishikawa,Japan,male,55,2/16/2020,0,2/16/2020,NA,NA,#VALUE!,0,0,0,,12/30/2020,fever
+321,85,2/21/2020,Tokyo,Japan,female,55,2/10/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,12/30/2020,"fever, cough, sputum"
+322,86,2/21/2020,Tokyo,Japan,female,75,2/1/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,12/30/2020,"fever, cough, malaise"
+323,87,2/21/2020,Tokyo,Japan,female,55,2/4/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,12/30/2020,fatigue
+324,88,2/21/2020,Chiba Prefecture,Japan,male,65,2/6/2020,0,2/9/2020,NA,NA,#VALUE!,3,0,0,,12/30/2020,"fatigue, loss of appetite"
+326,90,2/21/2020,Nagoya City,Japan,male,75,2/19/2020,0,2/21/2020,NA,NA,#VALUE!,2,0,0,,12/30/2020,"fever, cough"
+327,91,2/21/2020,Nagoya City,Japan,female,25,2/20/2020,0,2/21/2020,NA,NA,#VALUE!,1,0,0,,12/30/2020,"fever, cough, breathlessness"
+328,92,2/22/2020,Kumamoto City,Japan,female,25,2/17/2020,0,2/18/2020,NA,NA,#VALUE!,1,0,0,,,"cough, fever, headache, nausea, vomiting, diarrhea"
+329,93,2/22/2020,Kumamoto City,Japan,male,55,2/20/2020,0,2/21/2020,NA,NA,#VALUE!,1,0,0,,,"cough, fever"
+330,94,2/22/2020,Kumamoto Prefecture,Japan,male,65,2/15/2020,0,2/19/2020,NA,NA,#VALUE!,4,0,0,,,"fatigue, cold, fever, vomiting"
+331,95,2/22/2020,Wakayama Prefecture,Japan,male,45,2/2/2020,0,2/2/2020,NA,NA,#VALUE!,0,0,0,,,"fever, fatigue, cough, diarrhea"
+332,96,2/22/2020,Chiba Prefecture,Japan,female,65,2/12/2020,0,2/12/2020,NA,NA,#VALUE!,0,0,0,,,nausea
+333,97,2/22/2020,Japan,Japan,female,55,2/16/2020,0,2/19/2020,NA,NA,#VALUE!,3,0,0,,,"fatigue, joint pain, fever"
+334,98,2/22/2020,Hokkaido,Japan,female,75,2/6/2020,0,2/10/2020,NA,NA,#VALUE!,4,0,0,,,"cough, sputum"
+335,99,2/22/2020,Hokkaido,Japan,male,85,2/3/2020,0,2/3/2020,NA,NA,#VALUE!,0,0,0,2/27/2020,,difficulty breathing
+336,100,2/22/2020,Hokkaido,Japan,male,75,2/16/2020,0,2/20/2020,NA,NA,#VALUE!,4,0,0,,,"fever, cough, malaise"
+338,102,2/22/2020,Hokkaido,Japan,male,65,2/10/2020,0,2/10/2020,NA,NA,#VALUE!,0,0,0,,,fever
+339,103,2/22/2020,Hokkaido,Japan,female,55,2/15/2020,0,2/16/2020,NA,NA,#VALUE!,1,0,0,,,"fatigue, malaise, headache"
+340,104,2/22/2020,Hokkaido,Japan,female,15,2/6/2020,0,2/7/2020,NA,NA,#VALUE!,1,0,0,,,"fever, sore throat, malaise"
+341,105,2/22/2020,Hokkaido,Japan,female,55,2/13/2020,0,2/15/2020,NA,NA,#VALUE!,2,0,0,,,"sore throat, cough, fever"
+342,106,2/22/2020,Tokyo,Japan,male,65,2/12/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, cough"
+343,107,2/22/2020,Nagoya City,Japan,female,65,2/19/2020,0,2/21/2020,NA,NA,#VALUE!,2,0,0,,,"fever, nasal discharge, headache"
+344,108,2/22/2020,Nagoya City,Japan,female,46,2/20/2020,0,2/21/2020,NA,NA,#VALUE!,1,0,0,,,fever
+345,109,2/22/2020,Nagoya City,Japan,male,65,2/20/2020,0,2/21/2020,NA,NA,#VALUE!,1,0,0,,,"fever, cough, malaise"
+346,110,2/22/2020,Nagoya City,Japan,male,65,2/20/2020,0,2/21/2020,NA,NA,#VALUE!,1,0,0,,,fever
+347,111,2/22/2020,Japan,Japan,female,65,2/21/2020,0,2/22/2020,NA,NA,#VALUE!,1,0,0,,,fever
+348,112,2/22/2020,Sagamihara,Japan,male,55,2/16/2020,0,2/17/2020,NA,NA,#VALUE!,1,0,0,,,fever
+349,113,2/22/2020,Hokkaido,Japan,male,55,2/17/2020,0,2/18/2020,NA,NA,#VALUE!,1,0,0,,,"fever, difficulty breathing"
+351,115,2/23/2020,Nagoya City,Japan,female,75,2/22/2020,0,2/22/2020,NA,NA,#VALUE!,0,0,0,,,fever
+352,116,2/23/2020,Nagoya City,Japan,male,75,2/21/2020,0,2/22/2020,NA,NA,#VALUE!,1,0,0,,,"fever, cough"
+353,117,2/23/2020,Chiba Prefecture,Japan,male,45,2/12/2020,0,2/18/2020,NA,NA,#VALUE!,6,0,0,,,"joint pain, muscle pain, cough, malaise"
+363,127,2/23/2020,Sagamihara,Japan,male,55,2/16/2020,0,2/17/2020,NA,NA,#VALUE!,1,0,0,,,"fever, headache"
+364,128,2/24/2020,Ishikawa,Japan,male,65,2/16/2020,0,2/17/2020,NA,NA,#VALUE!,1,0,0,,,"fever, sore throat"
+365,129,2/24/2020,Sapporo,Japan,female,75,2/21/2020,0,2/22/2020,NA,NA,#VALUE!,1,0,0,,,"fever, cough"
+366,130,2/24/2020,Sapporo,Japan,male,55,2/14/2020,0,2/17/2020,NA,NA,#VALUE!,3,0,0,,,chills
+367,131,2/24/2020,Hokkaido,Japan,female,25,2/18/2020,0,2/23/2020,NA,NA,#VALUE!,5,0,0,,,fever
+368,132,2/24/2020,Hokkaido,Japan,male,55,2/17/2020,0,2/20/2020,NA,NA,#VALUE!,3,0,0,,,cough
+369,133,2/24/2020,Kanagawa,Japan,male,55,2/14/2020,0,2/17/2020,NA,NA,#VALUE!,3,0,0,,,"fever, respiratory distress"
+370,134,2/24/2020,Tokyo,Japan,male,45,2/13/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, malaise"
+371,135,2/24/2020,Tokyo,Japan,male,55,2/19/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, malaise"
+372,136,2/24/2020,Tokyo,Japan,male,35,2/18/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, sore throat"
+373,137,2/24/2020,Sagamihara,Japan,female,55,2/20/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"mild cough, sputum, throat discomfort"
+374,138,2/24/2020,Sagamihara,Japan,female,25,2/21/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"cough, sneeze"
+375,139,2/24/2020,Sagamihara,Japan,female,25,2/19/2020,0,2/19/2020,NA,NA,#VALUE!,0,0,0,,,"fever, chills, joint pain, heavy head"
+376,140,2/25/2020,Nagano Prefecture,Japan,male,65,2/20/2020,0,2/21/2020,NA,NA,#VALUE!,1,0,0,,,"fatigue, fever"
+377,141,2/25/2020,Kumamoto City,Japan,male,55,2/20/2020,0,2/24/2020,NA,NA,#VALUE!,4,0,0,,,sore throat
+378,142,2/25/2020,Kumamoto City,Japan,female,65,2/25/2020,0,2/25/2020,NA,NA,#VALUE!,0,0,0,,,fever
+379,143,2/25/2020,Sapporo,Japan,female,65,2/17/2020,0,2/17/2020,NA,NA,#VALUE!,0,0,0,,,fever
+381,145,2/25/2020,Nagoya City,Japan,female,75,2/20/2020,0,2/21/2020,NA,NA,#VALUE!,1,0,0,,,fever
+382,146,2/25/2020,Nagoya City,Japan,female,75,2/23/2020,0,2/23/2020,NA,NA,#VALUE!,0,0,0,,,"fever, cough"
+383,147,2/25/2020,Nagoya City,Japan,female,45,2/23/2020,0,2/23/2020,NA,NA,#VALUE!,0,0,0,,,"fever, runny nose"
+384,148,2/26/2020,Chiba Prefecture,Japan,male,55,2/22/2020,0,2/25/2020,2/12/2020,2/18/2020,10,3,0,0,,,fever
+385,149,2/26/2020,Chiba Prefecture,Japan,male,65,2/22/2020,0,2/24/2020,NA,2/20/2020,#VALUE!,2,0,0,,,fever
+386,150,2/26/2020,Chiba Prefecture,Japan,male,75,2/12/2020,0,NA,NA,2/21/2020,#VALUE!,#VALUE!,0,0,,,fever
+387,151,2/26/2020,Hokkaido,Japan,male,25,2/17/2020,0,2/18/2020,NA,NA,#VALUE!,1,0,0,,,"headache, fever, malaise"
+388,152,2/26/2020,Hokkaido,Japan,female,25,2/19/2020,0,2/24/2020,NA,NA,#VALUE!,5,0,0,,,"sore throat, fever"
+389,153,2/26/2020,Hokkaido,Japan,male,75,2/23/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,fever
+390,154,2/26/2020,Hokkaido,Japan,NA,NA,2/16/2020,0,2/17/2020,NA,NA,#VALUE!,1,0,0,2/25/2020,,cough
+391,155,2/26/2020,Hokkaido,Japan,female,75,2/17/2020,0,2/20/2020,NA,NA,#VALUE!,3,0,0,,,"fever, malaise"
+392,156,2/26/2020,Hokkaido,Japan,female,75,2/16/2020,0,2/16/2020,NA,NA,#VALUE!,0,0,0,,,"fever, cough"
+393,157,2/26/2020,Hokkaido,Japan,male,45,2/24/2020,0,2/24/2020,NA,NA,#VALUE!,0,0,0,,,"fever, cough"
+394,158,2/26/2020,Kanagawa,Japan,male,65,NA,NA,2/26/2020,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, cough, malaise"
+395,159,2/26/2020,Osaka Prefecture,Japan,female,45,2/6/2020,0,2/6/2020,NA,NA,#VALUE!,0,0,0,,,"throat discomfort, cough, chest pain"
+396,160,2/26/2020,Tokyo,Japan,male,85,2/22/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, cough, sputum, dyspnea"
+397,161,2/26/2020,Tokyo,Japan,male,75,2/12/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, cough, sputum, dyspnea"
+398,162,2/26/2020,Tokyo,Japan,male,75,2/14/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, cough, sputum"
+399,163,2/26/2020,Nagoya City,Japan,male,55,2/24/2020,0,2/25/2020,NA,NA,#VALUE!,1,0,0,,,"fever, thirst"
+400,164,2/26/2020,Nagoya City,Japan,male,65,2/25/2020,0,2/25/2020,NA,NA,#VALUE!,0,0,0,,,fever
+401,165,2/26/2020,Nagoya City,Japan,male,75,2/24/2020,0,2/25/2020,NA,NA,#VALUE!,1,0,0,,,"fever, cough, runny nose"
+402,166,2/26/2020,Nagoya City,Japan,male,75,2/23/2020,0,2/25/2020,NA,NA,#VALUE!,2,0,0,,,"fever, cough, malaise"
+403,167,2/26/2020,Nagoya City,Japan,female,75,2/24/2020,0,2/24/2020,NA,NA,#VALUE!,0,0,0,,,"fever, cough, sore throat, runny nose"
+404,168,2/27/2020,Gifu Prefecture,Japan,male,55,2/14/2020,0,2/15/2020,NA,NA,#VALUE!,1,0,0,,,"malaise, fever, headache"
+405,169,2/27/2020,Gifu Prefecture,Japan,female,55,2/23/2020,0,2/26/2020,2/20/2020,2/24/2020,3,3,0,0,,,"throat pain, chills"
+406,170,2/27/2020,Ishikawa,Japan,male,55,2/16/2020,0,2/17/2020,NA,NA,#VALUE!,1,0,0,,,fever
+407,171,2/27/2020,Kanagawa,Japan,male,55,2/20/2020,0,2/20/2020,NA,NA,#VALUE!,0,0,0,,,"fever, headache, malaise"
+408,172,2/27/2020,Tokyo,Japan,female,60,2/10/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, cough, sputum"
+409,173,2/27/2020,Osaka Prefecture,Japan,male,45,2/20/2020,0,2/26/2020,NA,NA,#VALUE!,6,0,0,,,"fever, cough, headache"
+411,175,2/27/2020,Hokkaido,Japan,male,55,2/25/2020,0,2/25/2020,NA,NA,#VALUE!,0,0,0,,,"cough, malaise"
+412,176,2/27/2020,Hokkaido,Japan,male,35,2/17/2020,0,2/18/2020,NA,NA,#VALUE!,1,0,0,,,fever
+413,177,2/27/2020,Hokkaido,Japan,male,75,2/16/2020,0,2/20/2020,NA,NA,#VALUE!,4,0,0,,,"fatigue, fever"
+414,178,2/27/2020,Hokkaido,Japan,male,65,2/18/2020,0,2/22/2020,NA,NA,#VALUE!,4,0,0,,,"sore throat, fever, joint pain, dyspnea"
+415,179,2/27/2020,Hokkaido,Japan,male,45,2/15/2020,0,2/17/2020,NA,NA,#VALUE!,2,0,0,,,"vomiting, cough, fever, sore throat"
+416,180,2/27/2020,Hokkaido,Japan,male,45,2/21/2020,0,2/21/2020,NA,NA,#VALUE!,0,0,0,,,fever
+417,181,2/27/2020,Hokkaido,Japan,male,5,2/21/2020,0,2/24/2020,NA,NA,#VALUE!,3,0,0,,,"fever, cough"
+418,182,2/27/2020,Hokkaido,Japan,male,35,2/24/2020,0,2/25/2020,NA,NA,#VALUE!,1,0,0,,,"fever, headache, malaise, joint pain"
+419,183,2/27/2020,Hokkaido,Japan,male,5,2/21/2020,0,2/22/2020,NA,NA,#VALUE!,1,0,0,,,"fever, cough"
+420,184,2/27/2020,Hokkaido,Japan,male,85,2/24/2020,0,2/24/2020,NA,NA,#VALUE!,0,0,0,,,"fever, cough"
+421,185,2/27/2020,Hokkaido,Japan,male,35,2/20/2020,0,2/23/2020,NA,NA,#VALUE!,3,0,0,,,"cough, fever, joint pain"
+422,186,2/27/2020,Hokkaido,Japan,male,85,2/22/2020,0,2/24/2020,NA,NA,#VALUE!,2,0,0,,,"cough, fever"
+423,187,2/27/2020,Hokkaido,Japan,male,65,2/22/2020,0,2/22/2020,NA,NA,#VALUE!,0,0,0,,,"fever, malaise, sore throat"
+424,188,2/27/2020,Hokkaido,Japan,female,45,2/24/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"cough, sore throat"
+425,189,2/27/2020,Nagoya City,Japan,female,65,2/26/2020,0,2/26/2020,NA,NA,#VALUE!,0,0,0,,,fever
+426,190,2/27/2020,Nagoya City,Japan,male,65,2/26/2020,0,2/26/2020,NA,NA,#VALUE!,0,0,0,,,"fever, cough, headache"
+431,5,1/29/2020,Langkawi,Malaysia,female,4,NA,NA,1/26/2020,NA,1/20/2020,#VALUE!,#VALUE!,0,0,,2/4/2020,"fever, cough, flu"
+436,10,2/4/2020,Malaysia,Malaysia,male,63,1/23/2020,0,NA,NA,1/18/2020,#VALUE!,#VALUE!,0,1,,2/9/2020,fever
+439,13,2/6/2020,Malaysia,Malaysia,female,40,2/1/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, sore throat, cough"
+440,14,2/6/2020,Malaysia,Malaysia,female,37,NA,NA,2/1/2020,NA,1/25/2020,#VALUE!,#VALUE!,0,1,,,mild fever
+441,15,2/7/2020,Johor,Malaysia,female,59,1/26/2020,0,NA,NA,1/17/2020,#VALUE!,#VALUE!,0,1,,2/15/2020,fever
+444,18,2/10/2020,Malaysia,Malaysia,male,31,2/3/2020,0,NA,NA,2/1/2020,#VALUE!,#VALUE!,0,0,,2/19/2020,cough
+446,20,2/16/2020,Malaysia,Malaysia,male,27,2/13/2020,0,2/13/2020,NA,NA,#VALUE!,0,0,0,,2/20/2020,fever
+447,21,2/16/2020,Malaysia,Malaysia,female,32,2/13/2020,0,NA,1/22/2020,1/30/2020,22,#VALUE!,0,0,,2/20/2020,sore throat
+452,2,1/24/2020,Singapore,Singapore,female,53,1/21/2020,0,1/22/2020,NA,1/21/2020,#VALUE!,1,0,1,,2/7/2020,"fever, cough, chills"
+465,15,1/31/2020,Singapore,Singapore,female,47,1/30/2020,0,1/30/2020,NA,1/30/2020,#VALUE!,0,1,0,,2/17/2020,fever
+467,17,2/1/2020,Singapore,Singapore,female,47,1/30/2020,0,1/30/2020,NA,1/30/2020,#VALUE!,0,1,0,,2/11/2020,fever
+469,19,2/4/2020,Singapore,Singapore,female,28,1/29/2020,0,2/3/2020,1/23/2020,1/23/2020,6,5,0,0,,2/22/2020,"fever, sore throat"
+475,25,2/5/2020,Singapore,Singapore,male,NA,1/24/2020,0,2/3/2020,NA,NA,#VALUE!,10,0,0,,2/12/2020,fever
+479,29,2/6/2020,Singapore,Singapore,male,41,1/28/2020,0,1/29/2020,NA,NA,#VALUE!,1,0,0,,2/12/2020,fever
+544,1,1/20/2020,South Korea,South Korea,female,35,1/18/2020,0,1/19/2020,NA,1/19/2020,#VALUE!,1,0,1,,2/6/2020,"high fever, chills, muscle pain"
+545,2,1/24/2020,South Korea,South Korea,male,55,1/10/2020,0,1/19/2020,NA,1/22/2020,#VALUE!,9,1,0,,2/4/2020,"fever, sore throat"
+546,3,1/25/2020,South Korea,South Korea,male,54,1/22/2020,0,1/25/2020,NA,1/20/2020,#VALUE!,3,0,1,,,"fever, chills, muscle cramps"
+547,4,1/27/2020,South Korea,South Korea,male,55,1/21/2020,0,1/21/2020,NA,1/20/2020,#VALUE!,0,1,0,,,"high fever, aching muscles"
+550,7,1/31/2020,South Korea,South Korea,male,28,1/26/2020,0,NA,NA,1/23/2020,#VALUE!,#VALUE!,1,0,,,cough
+553,10,1/31/2020,South Korea,South Korea,female,52,1/29/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,2/19/2020,headache
+554,11,1/31/2020,South Korea,South Korea,male,25,1/30/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,sore body
+559,16,2/4/2020,South Korea,South Korea,female,42,1/25/2020,0,NA,1/15/2020,1/19/2020,10,#VALUE!,0,0,,2/19/2020,chills
+567,24,2/7/2020,South Korea,South Korea,male,28,NA,NA,NA,NA,NA,#VALUE!,#VALUE!,1,0,,2/27/2020,sore throat
+568,25,2/9/2020,South Korea,South Korea,female,73,NA,NA,NA,NA,1/31/2020,#VALUE!,#VALUE!,0,0,,2/22/2020,"fever, cough, sore throat"
+572,29,2/16/2020,South Korea,South Korea,male,82,NA,NA,2/15/2020,NA,NA,#VALUE!,#VALUE!,0,0,,,chest discomfort
+573,30,2/17/2020,South Korea,South Korea,female,68,2/6/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"cough, chill, muscle pain"
+574,31,2/18/2020,South Korea,South Korea,female,61,2/7/2020,0,2/17/2020,NA,NA,#VALUE!,10,0,0,,,fever
+658,1,1/21/2020,Taiwan,Taiwan,female,55,1/11/2020,0,1/20/2020,NA,1/20/2020,#VALUE!,9,1,0,,,"fever, cough, shortness of breath"
+659,2,1/24/2020,Taiwan,Taiwan,female,55,1/23/2020,1,1/23/2020,NA,1/21/2020,#VALUE!,0,1,0,,,fever
+660,3,1/24/2020,Taiwan,Taiwan,male,55,1/23/2020,1,1/23/2020,NA,1/21/2020,#VALUE!,0,1,0,,,flu symptoms
+661,4,1/27/2020,Taiwan,Taiwan,female,50,1/22/2020,0,1/25/2020,1/13/2020,1/15/2020,9,3,1,0,,,cough
+662,5,1/27/2020,Taiwan,Taiwan,female,50,1/25/2020,1,1/25/2020,NA,1/20/2020,#VALUE!,0,1,0,,,"fever, muscle aches"
+663,6,1/28/2020,Taiwan,Taiwan,female,70,1/25/2020,0,1/25/2020,NA,1/22/2020,#VALUE!,0,0,1,,,fever
+664,7,1/28/2020,Taiwan,Taiwan,female,70,1/25/2020,0,1/25/2020,NA,1/22/2020,#VALUE!,0,0,1,,,fever
+665,8,1/28/2020,Taiwan,Taiwan,male,55,1/26/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,cough
+666,9,1/30/2020,Taiwan,Taiwan,male,NA,1/12/2020,1,NA,NA,NA,#VALUE!,#VALUE!,1,0,,,"cough, runny nose"
+669,12,2/6/2020,Taiwan,Taiwan,male,45,2/3/2020,0,2/4/2020,NA,1/17/2020,#VALUE!,1,1,0,,,"fever, cough, headache"
+670,13,2/6/2020,Taiwan,Taiwan,female,25,2/1/2020,0,2/4/2020,NA,1/21/2020,#VALUE!,3,0,1,,,"cough, chest pain"
+671,14,2/6/2020,Taiwan,Taiwan,male,55,1/26/2020,0,2/1/2020,NA,NA,#VALUE!,6,0,0,,,"fever, cough"
+672,15,2/6/2020,Taiwan,Taiwan,female,55,1/28/2020,0,2/3/2020,NA,NA,#VALUE!,6,0,0,,,cough
+673,16,2/6/2020,Taiwan,Taiwan,female,45,2/1/2020,0,2/3/2020,NA,NA,#VALUE!,2,0,0,,,"fever, chills, sore throat, runny nose, shortness of breath"
+676,19,2/16/2020,Taiwan,Taiwan,male,65,1/27/2020,0,2/3/2020,NA,NA,#VALUE!,7,0,0,,,"cough, shortness of breath"
+679,22,2/17/2020,Taiwan,Taiwan,male,35,1/28/2020,0,NA,1/27/2020,1/27/2020,1,#VALUE!,0,0,,,"fever, cough"
+681,24,2/20/2020,Taiwan,Taiwan,female,60,1/22/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, cough"
+682,25,2/21/2020,Taiwan,Taiwan,female,45,1/28/2020,0,1/30/2020,NA,NA,#VALUE!,2,0,0,,,"fever, cough"
+683,26,2/21/2020,Taiwan,Taiwan,female,25,NA,NA,2/3/2020,NA,NA,#VALUE!,#VALUE!,0,0,,,reflux
+685,28,2/23/2020,Taiwan,Taiwan,male,55,NA,NA,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,throat discomfort
+686,29,2/24/2020,Taiwan,Taiwan,male,45,1/29/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,physical discomfort
+689,32,2/26/2020,Taiwan,Taiwan,female,35,NA,NA,2/24/2020,2/11/2020,2/16/2020,#VALUE!,#VALUE!,0,0,,,throat discomfort
+690,33,2/28/2020,Taiwan,Taiwan,male,35,2/25/2020,0,NA,2/17/2020,2/22/2020,8,#VALUE!,0,0,,,"cough, itchy throat"
+692,1,1/13/2020,Thailand,Thailand,female,61,1/5/2020,0,1/8/2020,NA,1/8/2020,#VALUE!,3,0,1,,,"fever, chills, sore throat, headache"
+694,3,1/22/2020,Thailand,Thailand,male,68,1/19/2020,1,1/19/2020,NA,NA,#VALUE!,0,1,0,,,fever
+695,4,1/22/2020,Thailand,Thailand,female,73,1/13/2020,1,1/13/2020,NA,1/13/2020,#VALUE!,0,1,0,,2/6/2020,fever
+696,5,1/22/2020,Thailand,Thailand,male,NA,1/19/2020,1,1/19/2020,NA,NA,#VALUE!,0,1,0,,,fever
+697,6,1/24/2020,Thailand,Thailand,female,33,1/23/2020,1,1/23/2020,NA,1/21/2020,#VALUE!,0,1,0,,,"fever, coughing, muscle aches"
+729,38,2/26/2020,Thailand,Thailand,male,NA,NA,NA,2/23/2020,NA,NA,#VALUE!,#VALUE!,0,0,,,cough
+732,41,2/28/2020,Thailand,Thailand,male,25,NA,NA,2/25/2020,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, cough"
+741,9,2/3/2020,California,USA,male,57,1/25/2020,0,NA,1/18/2020,1/24/2020,7,#VALUE!,1,0,,,"cough, fever"
+751,1,1/23/2020,Ho Chi Minh City,Vietnam,male,66,1/17/2020,0,1/17/2020,NA,1/13/2020,#VALUE!,0,0,1,,2/12/2020,fever
+752,2,1/23/2020,Ho Chi Minh City,Vietnam,male,28,1/20/2020,0,NA,1/13/2020,NA,7,#VALUE!,0,0,,2/4/2020,fever
+760,10,2/4/2020,Vinh Phuc,Vietnam,female,42,1/31/2020,0,NA,1/22/2020,1/28/2020,9,#VALUE!,0,0,,2/20/2020,fever
+764,14,2/9/2020,Vinh Phuc,Vietnam,female,55,2/2/2020,0,NA,1/28/2020,1/28/2020,5,#VALUE!,0,0,,2/18/2020,"fever, headache, runny nose"
+766,16,2/13/2020,Vinh Phuc,Vietnam,male,50,2/11/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,tired
+782,1,1/26/2020,Toronto,Canada,male,56,NA,NA,1/23/2020,NA,1/22/2020,#VALUE!,#VALUE!,1,0,,1/31/2020,"fever, cough"
+794,1,1/27/2020,Preah Sihanouk Province,Cambodia,male,60,1/25/2020,0,NA,NA,1/23/2020,#VALUE!,#VALUE!,0,1,,,"fever, runny nose"
+795,1,1/28/2020,Sri Lanka,Sri Lanka,female,40,1/25/2020,0,1/25/2020,NA,1/19/2020,#VALUE!,0,0,1,,2/19/2020,fever
+796,1,1/28/2020,Bavaria,Germany,male,33,1/24/2020,0,NA,1/20/2020,1/21/2020,4,#VALUE!,0,0,,,"sore throat, chills, myalgias, fever, cough"
+816,21,2/26/2020,North Rhine-Westphalia,Germany,male,47,2/16/2020,0,2/24/2020,NA,NA,#VALUE!,8,0,0,,,"fever, cough"
+871,1,1/22/2020,Hong Kong,Hong Kong,male,39,1/21/2020,1,1/22/2020,NA,NA,#VALUE!,1,0,1,,,fever
+873,3,1/24/2020,Hong Kong,Hong Kong,female,62,1/20/2020,0,1/23/2020,NA,1/19/2020,#VALUE!,3,0,1,,,"fever, cough"
+874,4,1/24/2020,Hong Kong,Hong Kong,female,62,1/23/2020,0,1/23/2020,NA,1/22/2020,#VALUE!,0,0,1,,,feve\
+875,5,1/24/2020,Hong Kong,Hong Kong,male,63,1/23/2020,0,1/23/2020,NA,1/22/2020,#VALUE!,0,0,1,,,"fever, cough"
+876,6,1/27/2020,Hong Kong,Hong Kong,male,47,1/20/2020,0,1/21/2020,NA,1/23/2020,#VALUE!,1,0,1,,,fever
+877,7,1/27/2020,Hong Kong,Hong Kong,female,68,1/21/2020,0,1/25/2020,NA,1/25/2020,#VALUE!,4,1,0,,,fever
+878,8,1/27/2020,Hong Kong,Hong Kong,male,64,1/25/2020,0,1/25/2020,NA,1/19/2020,#VALUE!,0,0,1,,,fever
+881,11,1/30/2020,Yau Ma Tei,Hong Kong,female,37,1/28/2020,0,1/30/2020,1/22/2020,1/28/2020,6,2,0,0,,,cough
+882,12,1/30/2020,Tsing Yi,Hong Kong,male,75,1/22/2020,0,1/24/2020,NA,NA,#VALUE!,2,0,0,,,"cough, shortness of breath"
+883,13,1/31/2020,Kowloon,Hong Kong,male,39,1/31/2020,0,1/31/2020,1/21/2020,1/23/2020,10,0,1,0,,,"myalgia, fever"
+884,14,2/2/2020,Hong Kong,Hong Kong,male,80,1/19/2020,0,1/30/2020,1/10/2020,1/10/2020,9,11,0,0,,,fever
+885,15,2/2/2020,Kowloon,Hong Kong,female,72,2/1/2020,0,2/1/2020,1/23/2020,1/31/2020,9,0,0,0,,,"fever, cough"
+886,16,2/4/2020,Kowloon,Hong Kong,female,64,1/23/2020,0,1/23/2020,NA,NA,#VALUE!,0,0,0,,,cough
+887,17,2/4/2020,Hong Kong,Hong Kong,male,60,1/22/2020,0,1/30/2020,NA,NA,#VALUE!,8,0,0,,,"fever, myalgia, shortness of breath"
+888,18,2/4/2020,Kowloon,Hong Kong,male,25,1/28/2020,0,1/29/2020,NA,NA,#VALUE!,1,0,0,,2/15/2020,"cough, runny nose, diarrhea"
+889,19,2/5/2020,Kwun Tong,Hong Kong,female,56,2/4/2020,0,2/4/2020,NA,NA,#VALUE!,0,0,0,,,fever
+890,20,2/5/2020,Kwun Tong,Hong Kong,female,28,1/30/2020,0,2/4/2020,NA,NA,#VALUE!,5,0,0,,,"cough, sore throat"
+891,21,2/5/2020,Kwai Chung,Hong Kong,male,56,1/30/2020,0,2/1/2020,NA,NA,#VALUE!,2,0,0,,,"fever, cough, sore throat"
+892,22,2/6/2020,Kwai Chung,Hong Kong,female,55,2/1/2020,0,2/2/2020,NA,NA,#VALUE!,1,0,0,,,"sore throat, fever, diarrhea"
+893,23,2/6/2020,Hong Kong,Hong Kong,female,63,1/26/2020,0,2/5/2020,NA,NA,#VALUE!,10,0,0,,,"cough, malaise"
+894,24,2/6/2020,Hong Kong,Hong Kong,female,65,1/28/2020,0,1/29/2020,NA,NA,#VALUE!,1,0,0,,,"fever, cough"
+895,25,2/7/2020,Zhuhai,Hong Kong,male,58,2/4/2020,0,2/6/2020,NA,2/5/2020,#VALUE!,2,0,0,,,"fever, cough"
+896,26,2/7/2020,Fo Tan,Hong Kong,male,42,2/3/2020,0,2/3/2020,1/22/2020,2/2/2020,12,0,0,0,,,"fever, cough"
+897,27,2/9/2020,Wan Chai,Hong Kong,male,24,1/30/2020,0,1/30/2020,NA,NA,#VALUE!,0,0,0,,,"fever, cough"
+898,28,2/9/2020,Ngau Chi Wan,Hong Kong,male,70,1/30/2020,0,2/1/2020,NA,NA,#VALUE!,2,0,0,,,"cough, chills, shortness of breath, diarrhea"
+920,50,2/12/2020,Hong Kong,Hong Kong,male,51,2/3/2020,0,2/10/2020,NA,NA,#VALUE!,7,0,0,,,fever
+921,51,2/13/2020,Hong Kong,Hong Kong,male,43,1/29/2020,0,1/31/2020,1/30/2020,1/30/2020,-1,2,0,0,,,"cough, diarrhea, vomiting"
+922,52,2/13/2020,Hong Kong,Hong Kong,female,67,1/31/2020,0,1/31/2020,1/26/2020,1/26/2020,5,0,0,0,,,"cough, fever, chills"
+923,53,2/13/2020,Hong Kong,Hong Kong,male,37,2/8/2020,0,2/9/2020,1/26/2020,1/26/2020,13,1,0,0,,,fever
+925,55,2/14/2020,Hong Kong,Hong Kong,male,70,2/2/2020,0,2/12/2020,NA,NA,#VALUE!,10,0,0,,,cough
+927,57,2/16/2020,Hong Kong,Hong Kong,male,54,NA,NA,2/7/2020,NA,NA,#VALUE!,#VALUE!,0,0,,,fever
+928,58,2/17/2020,Hong Kong,Hong Kong,male,69,2/8/2020,0,2/8/2020,NA,NA,#VALUE!,0,0,0,,,"cough, shortness of breath"
+929,59,2/17/2020,Hong Kong,Hong Kong,male,45,2/12/2020,0,2/13/2020,NA,NA,#VALUE!,1,0,0,,,"fever, sore throat"
+930,60,2/17/2020,Hong Kong,Hong Kong,female,46,2/8/2020,0,2/10/2020,NA,NA,#VALUE!,2,0,0,,,"runny nose, cough"
+931,61,2/18/2020,Hong Kong,Hong Kong,female,32,2/2/2020,0,NA,NA,NA,#VALUE!,#VALUE!,0,0,,,"fever, cough"
+956,85,2/25/2020,Hong Kong,Hong Kong,female,60,2/12/2020,0,2/24/2020,NA,NA,#VALUE!,12,0,0,,,cough
+957,86,2/26/2020,Hong Kong,Hong Kong,female,49,2/18/2020,0,2/22/2020,NA,NA,#VALUE!,4,0,0,,,"cough, sputum, sore throat"
+958,87,2/26/2020,Hong Kong,Hong Kong,female,21,2/12/2020,0,2/25/2020,1/25/2020,2/22/2020,18,13,0,0,,,fever
+959,88,2/26/2020,Hong Kong,Hong Kong,male,16,2/17/2020,0,2/25/2020,1/25/2020,2/22/2020,23,8,0,0,,,runny nose
+960,89,2/26/2020,Hong Kong,Hong Kong,male,80,2/25/2020,0,2/25/2020,NA,NA,#VALUE!,0,0,0,,,"fever, cough"
+962,91,2/26/2020,Hong Kong,Hong Kong,male,26,2/20/2020,0,2/21/2020,NA,NA,#VALUE!,1,0,0,,,"fever, cough"
+963,92,2/27/2020,Hong Kong,Hong Kong,female,70,2/13/2020,0,2/13/2020,NA,NA,#VALUE!,0,0,0,,,cough with sputum
+964,93,2/27/2020,Hong Kong,Hong Kong,female,89,2/25/2020,0,2/26/2020,NA,NA,#VALUE!,1,0,0,,,cough
+993,1,2/2/2020,Manila,Phillipines,male,44,1/25/2020,1,1/25/2020,NA,1/21/2020,#VALUE!,0,0,1,2/1/2020,,"fever, cough, sore throat"
+996,1,1/29/2020,Lapland,Finland,female,32,1/26/2020,0,1/28/2020,NA,1/22/2020,#VALUE!,2,0,1,,,fever
+1007,11,2/26/2020,Barcelona,Spain,male,22,NA,NA,2/25/2020,NA,NA,#VALUE!,#VALUE!,0,0,,,"sore throat, fever"
+1031,1,1/31/2020,Jonkoping,Sweden,female,25,1/27/2020,1,NA,NA,1/24/2020,#VALUE!,#VALUE!,1,0,,,cough
